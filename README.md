@@ -1,5 +1,3 @@
-# TTS
-W2 Test yourself
 
 # FEWD2
 ## Test Yourself cont…
